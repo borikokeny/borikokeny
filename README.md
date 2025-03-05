@@ -15,3 +15,9 @@
 - Product Design
 - Concept Development
 
+## Contact Information:
+- You can contact me:
+<a href="https://www.linkedin.com/in/bori-kokeny-7070008a/">My LinkedIn page</a>
+- Or you can e-mail me:
+bori@minerali.hu
+
